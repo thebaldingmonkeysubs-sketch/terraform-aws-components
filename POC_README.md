@@ -32,7 +32,7 @@ Its `modules/` tree holds AWS components with code, interfaces and documentation
 | Repository | Purpose |
 |---|---|
 | [MassiveAIAgentGroundWork](https://github.com/thebaldingmonkeysubs-sketch/MassiveAIAgentGroundWork) | Phase runbooks, Claude Code prompts and planned coordination/governance design |
-| [MassiveAIAgentKnowledge](https://github.com/thebaldingmonkeysubs-sketch/MassiveAIAgentKnowledge) (private) | Ten expert knowledge bases, personas, impact indexes, issue proposals, and Phase 1 reports |
+| [MassiveAIAgentKnowledge](https://github.com/thebaldingmonkeysubs-sketch/MassiveAIAgentKnowledge) (private) | **All-agent cross-project knowledge repository** (coding, orchestration, governance, compliance research, reviewers and future domains); the ten Terraform expert KBs and Phase 1 reports are its first workload |
 | [MassiveAIAgentAuditCompliance](https://github.com/thebaldingmonkeysubs-sketch/MassiveAIAgentAuditCompliance) (private) | Approved policy baselines, audit-steward proposals, policy tests and approval decisions |
 | [MassiveAIAgentTestCodeRepo](https://github.com/thebaldingmonkeysubs-sketch/MassiveAIAgentTestCodeRepo) (private) | Isolated fixtures, simulated conflict scenarios, malicious/no-reservation tests and results |
 | **terraform-aws-components** (this repo) | Actual Terraform source and module contracts for the experiment |
